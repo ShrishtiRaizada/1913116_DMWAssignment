@@ -1,4 +1,4 @@
-## Simple Implementation Apriori Algorithm with **Minimum Support 60%** on a dataset having 10 transactions
+## Simple Implementation of Apriori Algorithm with **Minimum Support of 60%** on a dataset having 10 transactions
 
 Apriori is an Algorithm to finds Frequent itemset with support > minimum support. Support = Occurences.
 
